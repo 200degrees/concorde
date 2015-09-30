@@ -77,3 +77,4 @@ minimum' xs = foldl1' min' xs
 --21
 maximum' xs = foldl1' max' xs
 --22
+--still confused
